@@ -15,8 +15,8 @@ function createfigurs() {
 
     // let top = cheackOffset(height)
 
-    let top = rand(100);
-    let left = rand(100);
+    let top = rand(100) - 10;
+    let left = rand(100) - 10;
 
     let color_ID = rand(colors.length)
     let newDiv = document.createElement('div')
