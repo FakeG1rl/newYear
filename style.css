@@ -39,7 +39,7 @@ img:last-of-type {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 30%;
+    width: 80%;
 }
 h1 {
     display: inline-table;
