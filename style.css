@@ -29,7 +29,7 @@ img:last-of-type {
 }
 .text {
     position: absolute;
-    top: 1%;
+    top: 35%;
     left: 0%;
     right: 0%;
     z-index: 10;
