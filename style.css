@@ -22,7 +22,7 @@ img:first-of-type {
     right: -1%;
     bottom: -5%;
 }
-img:first-of-type {
+img:last-of-type {
     width: 30%;
     left: -8%;
     bottom: -5%;
@@ -44,10 +44,10 @@ img:first-of-type {
 h1 {
     display: inline-table;
     /* margin-bottom: 10px; */
-    font-size: 4rem;
+    font-size: 2rem;
 }
 p {
-    font-size: 2rem;
+    font-size: 1,5rem;
     margin: 0;
 }
 

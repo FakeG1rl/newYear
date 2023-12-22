@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function(){
 function createfigurs() {
   let number = 150
   for (let i = 0; i < number; i++) {
-    let width = 75 + sumRandomParametrs(25)
+    let width = 20 + sumRandomParametrs(25)
     // let left = 
 
     // let top = cheackOffset(height)
